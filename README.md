@@ -10,19 +10,6 @@ Hi, I'm Bharadwaj Murthy, a passionate Data Science developer who loves clean co
 *   ✉️  You can contact me at [bharadwajmurthy24@gmail.com](mailto:bharadwajmurthy24@gmail.com)
 *   🤝  I'm open to collaborating on Data Science projects
 *   ⚡  I am foodie, I feel food is the medicine for everything :)
-  
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bharadwaj Murthy
-========================================================================================================================================
-
-Data Scientist
---------------
-
-Hi, I'm Bharadwaj Murthy, a passionate Data Science developer who loves clean code, problem-solving, and continuous learning. My projects reflect my curiosity and dedication to building scalable, efficient, and user-friendly solutions.
-
-*   🌍  I'm based in Trier, Germany
-*   ✉️  You can contact me at [bharadwajmurthy24@gmail.com](mailto:bharadwajmurthy24@gmail.com)
-*   🤝  I'm open to collaborating on Data Science projects
-*   ⚡  I am foodie, I feel food is the medicine for everything :)
 
   ### Skills 
 <p align="left">
